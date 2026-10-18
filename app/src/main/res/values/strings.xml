@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DevTools Browser</string>
+    <string name="url_hint">Enter URL or search…</string>
+    <string name="go">Go</string>
+    <string name="back">Back</string>
+    <string name="forward">Forward</string>
+    <string name="reload">Reload</string>
+    <string name="stop">Stop</string>
+    <string name="devtools_on">DevTools ON</string>
+    <string name="devtools_off">DevTools OFF</string>
+    <string name="devtools_desc">Toggle on-device developer tools (Eruda)</string>
+    <string name="popups_desc">Block pop-ups and touch redirects</string>
+    <string name="popups_blocked">Pop-ups blocked</string>
+    <string name="popups_allowed">Pop-ups allowed</string>
+    <string name="popup_blocked_toast">Pop-up blocked</string>
+    <string name="clear">Clear</string>
+    <string name="error_page">This page could not be loaded.</string>
+</resources>

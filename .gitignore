@@ -1,0 +1,27 @@
+# Gradle
+.gradle/
+build/
+app/build/
+.kotlin/
+
+# Android Studio / IntelliJ
+*.iml
+.idea/
+captures/
+
+# Local machine config (contains your SDK path)
+local.properties
+
+# Build outputs
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# Keystores / secrets
+*.keystore
+*.jks
+keystore.properties
+
+# OS
+.DS_Store
